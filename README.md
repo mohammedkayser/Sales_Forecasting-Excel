@@ -6,8 +6,11 @@ This project involves forecasting quarterly sales using Microsoft Excel. The goa
 ## Project Overview
 
 **Objective**: To forecast quarterly sales and predict future performance.
+
 **Tools**: Microsoft Excel
-**Dataset:** own sample dataset 
+
+**Dataset:** own sample dataset
+
 **Forecasting Technique:** Time series analysis and forecasting models
 
 ## Getting Started
